@@ -1,4 +1,4 @@
-package com.greatlearning.datastructure;
+package com.datastructure.tree;
 
 public class Node {
 	int val;
